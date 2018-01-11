@@ -114,7 +114,7 @@ namespace Necromancy
                 stat = StatDef.Named("TradePriceImprovement"),
                 value = 1.15F
             },
-        }
+        };
 
         public static List<LifeStageDef> LifeStageDefs = new List<LifeStageDef>()
         {
